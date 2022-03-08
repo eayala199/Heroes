@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Roboto;
+}
+
+body header p {
+    background-color: #1CD1B0;
+    height: 38px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+h1 {
+    height: 101px;
+    top: 38px;
+    background-color: #00669F;
+    font-weight: bold;
+    padding: 28px;
+
+}
+
+footer {
+    background-color: #00669F;
+    height: 51px;
+    top: 972px;
+    padding: 16px;
+    color: white;
+}
+
+main section article {
+    width: 300px;
+    height: 528px;
+    top: 480px;
+    left: 32px;
+    margin-left: 150px;
+    margin-bottom: 250px;
+    margin-right: 30px;
+    margin-top: 250px;
+    background-color: lightgray;
+    border-radius: 16px 16px 0px 0px;
+}
+
+.tituloBatman {
+    text-align: center;
+    padding: 74px 89px 5px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+main section article p {
+    padding: 5px 17px 104px 16px;
+}
+
+main section article div {
+    width: 128.78px;
+    height: 48.52px;
+    left: 117px;
+    margin-left: 116px;
+    top: 840px;
+    background-color: #00669F;
+    position: absolute;
+}
+
+main section article div p {
+    color: white;
+    padding: 15px 35px 15px;
+}
+
+.perfilBatman {
+    width: 120px;
+    height: 118px;
+    left: 122px;
+    top: 512px;
+    margin-left: 116px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+main section article {
+    display: inline-block;
+}
+
+.corazonBatman {
+    position: absolute;
+    left: 53px;
+    right: 941px;
+    top: 405px;
+    bottom: 688px;
+    margin-left: 115px;
+
+}
+
+.perfilHarley {
+    width: 120px;
+    height: 118px;
+    left: 720px;
+    top: 512px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+#tituloHarley {
+
+    text-align: center;
+    padding-top: 74px;
+    padding-left: 0px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    
+    text-align: center;
+}
+
+.corazonHarley {
+    left: 650px;
+    margin-left: 2px;
+    right: 941px;
+    top: 405px;
+    bottom: 688px;
+    position: absolute;
+
+}
+
+.botonHarley {
+    width: 128.78px;
+    height: 48.52px;
+    left: 117px;
+    top: 840px;
+    margin-left: 600px;
+    background-color: #00669F;
+    position: absolute;
+}
+
+.perfilBatmanTercero {
+    width: 120px;
+    height: 118px;
+    left: 122px;
+    top: 512px;
+    margin-left: 1084px;
+    position: absolute;
+    border-radius: 50%;
+}
+.corazonBatmanTercero {
+    position: absolute;
+    left: 53px;
+    right: 941px;
+    top: 405px;
+    bottom: 688px;
+    margin-left: 1082px    
+
+    }
+
+.botonBatmanTercero {
+
+    width: 128.78px;
+    height: 48.52px;
+    left: 117px;
+    top: 840px;
+    margin-left: 1082px;
+    background-color: #00669F;
+    position: absolute;
+}    
